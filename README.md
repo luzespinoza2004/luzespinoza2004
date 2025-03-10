@@ -4,7 +4,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🎓 I’m currently a 4th-year student of **Ingeniería en Cibernética Electrónica** at [Universidad Tecnológica La Salle](https://www.ulsa.edu.ni).
+- 🎓 I’m currently a 5th-year student of **Ingeniería en Cibernética Electrónica** at [Universidad Tecnológica La Salle](https://www.ulsa.edu.ni).
 
 - 📘 I’m currently learning about networking.
 
